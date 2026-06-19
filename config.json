@@ -1,0 +1,18 @@
+{
+  "mongoUri": "mongodb://localhost:27017/code-accountability",
+  "jwtSecret": "your-secret-key-change-in-production",
+  "dailyTarget": 50,
+  "deadline": "23:59",
+  "scanIntervalMinutes": 5,
+  "codeFolders": [],
+  "githubRepos": [
+    { "owner": "amitkumar1", "repo": "your-repo-name", "branch": "main" }
+  ],
+  "githubToken": "",
+  "platform": "linkedin",
+  "ollamaUrl": "http://localhost:11434",
+  "ollamaModel": "llama3",
+  "backendPort": 4000,
+  "frontendPort": 3000,
+  "publicFields": []
+}

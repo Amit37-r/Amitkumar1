@@ -1,0 +1,1 @@
+{"version":3,"file":"ai-generator.accessor.d.ts","sourceRoot":"","sources":["../../../src/modules/ai-generator/ai-generator.accessor.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,mBAAmB;IAC9B,OAAO,CAAC,MAAM,CAAS;IACvB,OAAO,CAAC,KAAK,CAAS;gBAEV,MAAM,CAAC,EAAE,MAAM,EAAE,KAAK,CAAC,EAAE,MAAM;IAKrC,QAAQ,CAAC,MAAM,EAAE,MAAM,GAAG,OAAO,CAAC,MAAM,CAAC;CA2BhD"}

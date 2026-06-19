@@ -1,0 +1,952 @@
+[2026-06-11T22:10:19.796Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-11T22:10:20.051Z] [INFO] [Server] Database initialized
+[2026-06-11T22:10:20.148Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-11T22:10:20.156Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-11T22:10:20.301Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-11T22:14:34.699Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-11T22:14:34.707Z] [INFO] [SchedulerService] Stopped
+[2026-06-11T22:14:35.439Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-11T22:14:35.448Z] [INFO] [Server] Database initialized
+[2026-06-11T22:14:35.475Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-11T22:14:35.478Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-11T22:14:35.597Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-11T22:14:48.721Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-11T22:14:48.733Z] [INFO] [SchedulerService] Stopped
+[2026-06-11T22:14:49.478Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-11T22:14:49.500Z] [INFO] [Server] Database initialized
+[2026-06-11T22:14:49.531Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-11T22:14:49.534Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-11T22:14:49.605Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-11T22:15:00.545Z] [ERROR] [SchedulerService] Scan failed: repos is not iterable
+[2026-06-11T22:15:12.157Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-11T22:15:12.159Z] [INFO] [SchedulerService] Stopped
+[2026-06-11T22:15:14.921Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-11T22:15:14.934Z] [INFO] [Server] Database initialized
+[2026-06-11T22:15:14.990Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-11T22:15:14.996Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-11T22:15:15.085Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-11T22:19:36.504Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-11T22:19:36.613Z] [INFO] [SchedulerService] Stopped
+[2026-06-11T22:19:40.647Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-11T22:19:40.660Z] [INFO] [Server] Database initialized
+[2026-06-11T22:19:40.722Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-11T22:19:40.727Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-11T22:19:41.512Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-11T22:19:53.832Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-11T22:19:53.857Z] [INFO] [SchedulerService] Stopped
+[2026-06-11T22:19:56.264Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-11T22:19:56.275Z] [INFO] [Server] Database initialized
+[2026-06-11T22:19:56.327Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-11T22:19:56.331Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-11T22:19:56.604Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-11T22:20:01.069Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-11T22:25:01.206Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-11T22:30:00.687Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-11T22:35:01.184Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T06:00:01.313Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T06:05:00.733Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T06:08:07.378Z] [INFO] [NetworkMonitorService] Network restored
+[2026-06-12T06:08:07.378Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-12T06:10:01.177Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T06:15:00.610Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T06:20:01.085Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T06:25:01.389Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T06:30:00.805Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T06:35:01.218Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:00:00.746Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:05:01.229Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:10:00.601Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:15:00.973Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:20:01.411Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:25:00.826Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:30:01.224Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:35:01.024Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:40:01.385Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:45:00.782Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:50:01.747Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T07:55:01.787Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T08:00:01.344Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T08:05:00.467Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T08:10:00.892Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:05:01.318Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:10:00.749Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:15:00.592Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:20:00.998Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:25:01.380Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:30:00.788Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:35:01.201Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:40:00.638Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:45:01.039Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:50:00.473Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T09:55:00.906Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:00:01.342Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:05:00.730Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:10:01.083Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:15:00.539Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:20:01.068Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:25:00.557Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:30:01.039Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:35:01.113Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:40:01.372Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:45:00.878Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T10:50:01.266Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:08:53.135Z] [INFO] [NetworkMonitorService] Network restored
+[2026-06-12T11:08:53.136Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-12T11:15:01.328Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:20:00.471Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:25:00.818Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:30:01.314Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:35:01.388Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:40:00.627Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:45:00.962Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:50:01.436Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T11:55:00.747Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T12:00:01.215Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T12:05:00.511Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T12:10:00.905Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T12:15:00.617Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T12:20:00.409Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-12T12:30:01.087Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T20:45:00.797Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T20:50:01.043Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T20:51:27.094Z] [INFO] [NetworkMonitorService] Network restored
+[2026-06-14T20:51:27.095Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-14T20:55:03.337Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T21:00:00.785Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T21:05:05.061Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T21:09:48.968Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-14T21:09:48.970Z] [INFO] [SchedulerService] Stopped
+[2026-06-14T21:09:53.374Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-14T21:09:53.387Z] [INFO] [Server] Database initialized
+[2026-06-14T21:09:53.418Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-14T21:09:53.420Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-14T21:09:53.536Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-14T21:10:08.628Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T21:15:09.345Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T21:19:26.941Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-14T21:19:26.944Z] [INFO] [SchedulerService] Stopped
+[2026-06-14T21:19:31.741Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-14T21:19:31.750Z] [INFO] [Server] Database initialized
+[2026-06-14T21:19:31.777Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-14T21:19:31.780Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-14T21:19:31.901Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-14T21:20:07.214Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-14T21:25:01.186Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":2,"sources":{"local":1,"github":1}}
+[2026-06-14T21:30:11.801Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":2,"sources":{"local":1,"github":1}}
+[2026-06-14T21:31:17.506Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-14T21:31:17.507Z] [INFO] [SchedulerService] Stopped
+[2026-06-14T21:31:18.622Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-14T21:31:18.628Z] [INFO] [Server] Database initialized
+[2026-06-14T21:31:18.654Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-14T21:31:18.657Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-14T21:31:18.786Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-14T21:31:25.355Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-14T21:31:25.359Z] [INFO] [SchedulerService] Stopped
+[2026-06-14T21:31:26.825Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-14T21:31:26.834Z] [INFO] [Server] Database initialized
+[2026-06-14T21:31:26.866Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-14T21:31:26.869Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-14T21:31:26.970Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-14T21:31:32.302Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-14T21:31:32.303Z] [INFO] [SchedulerService] Stopped
+[2026-06-14T21:31:33.538Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-14T21:31:33.546Z] [INFO] [Server] Database initialized
+[2026-06-14T21:31:33.547Z] [ERROR] [MongoDB] Connection failed: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2026-06-14T21:31:39.700Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-14T21:31:39.706Z] [INFO] [Server] Database initialized
+[2026-06-14T21:31:39.706Z] [ERROR] [MongoDB] Connection failed: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2026-06-15T04:02:58.869Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-15T04:02:58.891Z] [INFO] [Server] Database initialized
+[2026-06-15T04:03:28.910Z] [ERROR] [MongoDB] Connection failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+[2026-06-15T05:01:38.693Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-15T05:01:38.726Z] [INFO] [Server] Database initialized
+[2026-06-15T05:02:08.742Z] [ERROR] [MongoDB] Connection failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+[2026-06-18T14:26:19.768Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T14:26:19.787Z] [INFO] [Server] Database initialized
+[2026-06-18T14:26:31.669Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T14:26:31.686Z] [INFO] [Server] Database initialized
+[2026-06-18T14:27:01.704Z] [ERROR] [MongoDB] Connection failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+[2026-06-18T15:18:17.298Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T15:18:17.317Z] [INFO] [Server] Database initialized
+[2026-06-18T15:18:17.780Z] [ERROR] [MongoDB] Connection failed: bad auth : authentication failed
+[2026-06-18T15:22:33.672Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T15:22:33.703Z] [INFO] [Server] Database initialized
+[2026-06-18T15:22:34.171Z] [ERROR] [MongoDB] Connection failed: bad auth : authentication failed
+[2026-06-18T15:24:26.387Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T15:24:26.413Z] [INFO] [Server] Database initialized
+[2026-06-18T15:24:26.922Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T15:24:26.922Z] [INFO] [Server] MongoDB connected
+[2026-06-18T15:24:26.928Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T15:24:26.969Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T15:24:27.082Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T15:25:01.397Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T15:30:00.890Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T16:10:01.448Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T16:15:00.607Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T16:15:47.041Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-18T16:15:47.044Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T18:19:41.067Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T18:19:41.092Z] [INFO] [Server] Database initialized
+[2026-06-18T18:19:41.646Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T18:19:41.646Z] [INFO] [Server] MongoDB connected
+[2026-06-18T18:19:41.654Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T18:19:41.659Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T18:19:41.783Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T18:20:01.091Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T18:25:00.446Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T18:29:00.369Z] [INFO] [EvaluatorService] Day evaluated: FAILED {"lineCount":0,"target":50,"streak":0}
+[2026-06-18T18:29:00.381Z] [WARN] [AiGeneratorService] Attempt 1 failed: fetch failed
+[2026-06-18T18:29:10.385Z] [WARN] [AiGeneratorService] Attempt 2 failed: fetch failed
+[2026-06-18T18:29:20.388Z] [WARN] [AiGeneratorService] Attempt 3 failed: fetch failed
+[2026-06-18T18:29:20.389Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T18:29:23.792Z] [INFO] [OfflineQueueService] Post queued: id=1, platform=linkedin
+[2026-06-18T18:30:00.845Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T18:35:00.685Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T18:40:00.989Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T18:45:01.380Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T18:50:00.700Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T18:55:01.051Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:00:01.393Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:05:00.565Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:10:00.945Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:12:04.369Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T19:12:04.371Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T19:12:05.793Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:12:05.804Z] [INFO] [Server] Database initialized
+[2026-06-18T19:12:06.438Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T19:12:06.439Z] [INFO] [Server] MongoDB connected
+[2026-06-18T19:12:06.454Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T19:12:06.457Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T19:12:06.538Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T19:12:21.649Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T19:12:21.650Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T19:12:22.920Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:12:22.927Z] [INFO] [Server] Database initialized
+[2026-06-18T19:12:23.289Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T19:12:23.290Z] [INFO] [Server] MongoDB connected
+[2026-06-18T19:12:23.298Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T19:12:23.302Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T19:12:23.366Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T19:12:33.285Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T19:12:33.286Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T19:12:34.449Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:12:34.455Z] [INFO] [Server] Database initialized
+[2026-06-18T19:12:34.829Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T19:12:34.830Z] [INFO] [Server] MongoDB connected
+[2026-06-18T19:12:34.837Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T19:12:34.841Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T19:12:34.944Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T19:13:46.208Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T19:13:46.284Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T19:13:48.360Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:13:48.370Z] [INFO] [Server] Database initialized
+[2026-06-18T19:13:48.868Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T19:13:48.868Z] [INFO] [Server] MongoDB connected
+[2026-06-18T19:13:48.883Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T19:13:48.911Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T19:13:48.979Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T19:15:01.394Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:20:00.762Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:25:01.107Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:30:00.452Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:35:00.870Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:38:03.377Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-18T19:38:03.378Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T19:38:07.500Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:38:07.507Z] [INFO] [Server] Database initialized
+[2026-06-18T19:49:40.134Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:49:40.157Z] [INFO] [Server] Database initialized
+[2026-06-18T19:49:40.662Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T19:49:40.662Z] [INFO] [Server] MongoDB connected
+[2026-06-18T19:49:40.668Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T19:49:40.673Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T19:49:40.768Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T19:50:01.130Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:53:16.500Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T19:53:26.737Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T19:53:37.005Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T19:53:37.006Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T19:54:20.719Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T19:54:20.720Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T19:54:22.059Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:54:22.067Z] [INFO] [Server] Database initialized
+[2026-06-18T19:54:22.623Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T19:54:22.623Z] [INFO] [Server] MongoDB connected
+[2026-06-18T19:54:22.629Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T19:54:22.632Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T19:54:22.724Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T19:54:30.808Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T19:54:30.809Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T19:54:31.897Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:54:31.909Z] [INFO] [Server] Database initialized
+[2026-06-18T19:54:32.270Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T19:54:32.270Z] [INFO] [Server] MongoDB connected
+[2026-06-18T19:54:32.277Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T19:54:32.281Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T19:54:32.343Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T19:54:34.182Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 25.823483809s.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count",
+            "quotaId": "GenerateContentInputTokensPerModelPerMinute-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "25s"
+      }
+    ]
+  }
+}
+
+[2026-06-18T19:54:37.828Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T19:54:37.829Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T19:54:44.105Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T19:54:44.113Z] [INFO] [Server] Database initialized
+[2026-06-18T19:54:44.462Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T19:54:44.462Z] [INFO] [Server] MongoDB connected
+[2026-06-18T19:54:44.472Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T19:54:44.478Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T19:54:44.548Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T19:55:00.911Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T19:55:16.983Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 43.022545431s.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count",
+            "quotaId": "GenerateContentInputTokensPerModelPerMinute-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "43s"
+      }
+    ]
+  }
+}
+
+[2026-06-18T19:55:27.215Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 32.78199965s.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count",
+            "quotaId": "GenerateContentInputTokensPerModelPerMinute-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "32s"
+      }
+    ]
+  }
+}
+
+[2026-06-18T19:55:37.648Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 22.351781649s.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count",
+            "quotaId": "GenerateContentInputTokensPerModelPerMinute-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "22s"
+      }
+    ]
+  }
+}
+
+[2026-06-18T19:55:37.652Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T19:59:51.813Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 8.191053528s.",
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Learn more about Gemini API quotas",
+            "url": "https://ai.google.dev/gemini-api/docs/rate-limits"
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.QuotaFailure",
+        "violations": [
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count",
+            "quotaId": "GenerateContentInputTokensPerModelPerMinute-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerMinutePerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "model": "gemini-2.0-flash",
+              "location": "global"
+            }
+          },
+          {
+            "quotaMetric": "generativelanguage.googleapis.com/generate_content_free_tier_requests",
+            "quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier",
+            "quotaDimensions": {
+              "location": "global",
+              "model": "gemini-2.0-flash"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.RetryInfo",
+        "retryDelay": "8s"
+      }
+    ]
+  }
+}
+
+[2026-06-18T19:59:58.445Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-18T19:59:58.446Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:00:02.382Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:00:02.416Z] [INFO] [Server] Database initialized
+[2026-06-18T20:00:02.996Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:00:02.997Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:00:03.005Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:00:03.009Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:00:03.102Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:00:17.840Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:00:28.518Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:00:39.156Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:00:39.158Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T20:00:39.943Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:00:50.564Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:01:01.135Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:01:01.138Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T20:02:57.728Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:02:57.729Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:02:58.960Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:02:58.967Z] [INFO] [Server] Database initialized
+[2026-06-18T20:03:00.248Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:03:00.254Z] [INFO] [Server] Database initialized
+[2026-06-18T20:03:00.609Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:03:00.610Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:03:00.617Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:03:00.621Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:03:00.681Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:03:00.683Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:03:01.672Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:03:01.677Z] [INFO] [Server] Database initialized
+[2026-06-18T20:03:02.018Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:03:02.019Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:03:02.025Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:03:02.028Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:03:02.109Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:03:28.309Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:03:38.887Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:03:49.428Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:03:49.430Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T20:05:00.586Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:05:28.038Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:05:28.041Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:05:29.140Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:05:29.157Z] [INFO] [Server] Database initialized
+[2026-06-18T20:05:29.591Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:05:29.592Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:05:29.599Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:05:29.602Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:05:29.674Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:05:30.773Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:05:30.774Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:05:31.719Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:05:31.725Z] [INFO] [Server] Database initialized
+[2026-06-18T20:05:32.071Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:05:32.072Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:05:32.079Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:05:32.082Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:05:32.146Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:05:35.117Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:05:35.118Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:05:36.058Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:05:36.063Z] [INFO] [Server] Database initialized
+[2026-06-18T20:05:36.414Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:05:36.416Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:05:36.427Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:05:36.434Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:05:36.505Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:05:41.209Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:05:51.477Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:06:01.729Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:06:01.729Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T20:08:15.940Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:08:15.947Z] [INFO] [Server] Database initialized
+[2026-06-18T20:08:16.532Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:08:16.533Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:09:27.453Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:09:49.015Z] [ERROR] [Server] Uncaught: listen EADDRINUSE: address already in use :::4000
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at Function.listen (/Users/amitkumar1/ learning/node_modules/express/lib/application.js:635:24)
+    at bootstrap (/Users/amitkumar1/ learning/backend/src/server.ts:54:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2026-06-18T20:09:55.923Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:10:01.207Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:10:06.216Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:10:16.498Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:10:16.501Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T20:10:19.541Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-18T20:10:19.542Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:10:38.291Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:10:38.311Z] [INFO] [Server] Database initialized
+[2026-06-18T20:10:38.832Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:10:38.832Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:10:49.222Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:10:51.609Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:10:58.899Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:11:09.175Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:11:19.866Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:11:19.869Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T20:12:22.279Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:12:22.281Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:12:24.210Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:12:24.241Z] [INFO] [Server] Database initialized
+[2026-06-18T20:12:25.237Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:12:25.238Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:13:23.920Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:13:23.931Z] [INFO] [Server] Database initialized
+[2026-06-18T20:13:24.288Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:13:24.289Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:13:24.301Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:13:24.307Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:13:24.377Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:13:29.402Z] [WARN] [AiGeneratorService] Attempt 1 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:13:39.669Z] [WARN] [AiGeneratorService] Attempt 2 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:13:49.997Z] [WARN] [AiGeneratorService] Attempt 3 failed: Gemini API returned status 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-06-18T20:13:49.998Z] [WARN] [AiGeneratorService] All retries failed, using fallback text
+[2026-06-18T20:14:45.267Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:14:45.269Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:14:46.509Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:14:46.516Z] [INFO] [Server] Database initialized
+[2026-06-18T20:14:47.021Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:14:47.022Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:14:47.032Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:14:47.037Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:14:47.131Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:15:00.586Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:20:00.858Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:25:01.290Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:30:00.610Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:35:00.967Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:40:01.338Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:45:00.765Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T20:48:44.492Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:48:44.495Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:48:45.889Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:48:45.901Z] [INFO] [Server] Database initialized
+[2026-06-18T20:48:47.829Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:48:47.829Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:48:47.836Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:48:47.839Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:48:48.293Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:49:34.423Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:49:34.425Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:49:35.604Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:49:35.616Z] [INFO] [Server] Database initialized
+[2026-06-18T20:49:35.991Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:49:35.992Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:49:35.999Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:49:36.003Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:49:36.105Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:49:57.869Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T20:49:57.870Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T20:49:59.103Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T20:49:59.114Z] [INFO] [Server] Database initialized
+[2026-06-18T20:50:00.453Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T20:50:00.454Z] [INFO] [Server] MongoDB connected
+[2026-06-18T20:50:00.461Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T20:50:00.465Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T20:50:00.658Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T20:55:01.180Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T21:00:00.592Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T21:05:01.242Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T21:10:01.955Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T21:10:58.778Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-18T21:10:58.781Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T21:11:03.233Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T21:11:03.241Z] [INFO] [Server] Database initialized
+[2026-06-18T21:11:03.744Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T21:11:03.745Z] [INFO] [Server] MongoDB connected
+[2026-06-18T21:11:03.757Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T21:11:03.762Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T21:11:03.852Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T21:12:25.428Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-18T21:12:25.432Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T21:12:26.793Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T21:12:26.801Z] [INFO] [Server] Database initialized
+[2026-06-18T21:12:28.682Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T21:12:28.683Z] [INFO] [Server] MongoDB connected
+[2026-06-18T21:12:28.690Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T21:12:28.694Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T21:12:28.800Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T21:15:01.327Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T21:15:38.405Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-18T21:15:38.408Z] [INFO] [SchedulerService] Stopped
+[2026-06-18T21:15:42.277Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-18T21:15:42.290Z] [INFO] [Server] Database initialized
+[2026-06-18T21:15:42.785Z] [INFO] [MongoDB] Connected successfully
+[2026-06-18T21:15:42.785Z] [INFO] [Server] MongoDB connected
+[2026-06-18T21:15:42.793Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-18T21:15:42.798Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-18T21:15:42.892Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-18T21:20:00.885Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T23:05:00.392Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-18T23:55:01.896Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T00:25:01.321Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T02:00:00.707Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T04:45:00.697Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T05:10:00.701Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T05:55:01.404Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T05:57:53.406Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-19T05:57:53.409Z] [INFO] [SchedulerService] Stopped
+[2026-06-19T05:57:57.008Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-19T05:57:57.039Z] [INFO] [Server] Database initialized
+[2026-06-19T05:57:57.563Z] [INFO] [MongoDB] Connected successfully
+[2026-06-19T05:57:57.564Z] [INFO] [Server] MongoDB connected
+[2026-06-19T05:57:57.576Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-19T05:57:57.584Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-19T05:57:57.715Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-19T06:00:01.211Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T06:05:00.554Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T06:05:37.893Z] [INFO] [Server] SIGTERM received — shutting down
+[2026-06-19T06:05:37.898Z] [INFO] [SchedulerService] Stopped
+[2026-06-19T06:05:44.425Z] [INFO] [Server] Daily Code Accountability starting...
+[2026-06-19T06:05:44.466Z] [INFO] [Server] Database initialized
+[2026-06-19T06:05:44.922Z] [INFO] [MongoDB] Connected successfully
+[2026-06-19T06:05:44.923Z] [INFO] [Server] MongoDB connected
+[2026-06-19T06:05:44.930Z] [INFO] [SchedulerService] Started: scans every 5min, evaluation at 23:59
+[2026-06-19T06:05:44.934Z] [INFO] [Server] Running on http://localhost:4000
+[2026-06-19T06:05:45.039Z] [INFO] [Server] Network restored — flushing queue
+[2026-06-19T06:10:00.706Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T06:15:01.044Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T06:20:00.433Z] [INFO] [LineCounterService] Scan complete: 0 net lines {"files":0,"errors":1,"sources":{"local":0,"github":1}}
+[2026-06-19T06:23:47.291Z] [INFO] [Server] SIGINT received — shutting down
+[2026-06-19T06:23:47.294Z] [INFO] [SchedulerService] Stopped

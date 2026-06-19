@@ -1,0 +1,1 @@
+{"version":3,"file":"network-monitor.types.d.ts","sourceRoot":"","sources":["../../../src/modules/network-monitor/network-monitor.types.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,mBAAmB;IAClC,QAAQ,EAAE,OAAO,CAAC;IAClB,SAAS,EAAE,IAAI,CAAC;IAChB,SAAS,CAAC,EAAE,MAAM,CAAC;CACpB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"post-automator.accessor.d.ts","sourceRoot":"","sources":["../../../src/modules/post-automator/post-automator.accessor.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,iBAAiB,EAAE,MAAM,wBAAwB,CAAC;AAEzE,qBAAa,qBAAqB;IAChC,OAAO,CAAC,EAAE,CAAkB;;IAM5B,OAAO,CAAC,OAAO,EAAE,YAAY,EAAE,IAAI,EAAE,MAAM,GAAG,IAAI;IAOlD,UAAU,CAAC,KAAK,SAAK,GAAG,iBAAiB,EAAE;CAiB5C"}
